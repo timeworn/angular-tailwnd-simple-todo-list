@@ -2,6 +2,17 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.3.
 
+## Specification
+
+- Make an angular app that runs locally and displays an interactive task list.
+- The data does not need to persist.
+- Have the task list appear in a card, i.e. have some kind of border around it.
+- Have a title bar at the top of the card with a dark color and white bold text, with the text saying something like "Task list".
+- The list should start out empty, with an input for the user to add a task (which is a simple string of text).
+- When a task is added by the user, it is appended to the displayed list.
+- Each task also has an icon button to the right for deleting the task.
+- Use your best judgment to make margins and layout that look professional and that are responsive to multiple screen sizes.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
